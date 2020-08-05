@@ -22,6 +22,10 @@
       ·digital_recognition模块：数字识别模块，基于数字特征实现数字识别。该模块还有一个子模块，将识别后的数字转化为七段数字码，便于后面数字显示。
       ·digital_display模块：识别数字显示模块，与七段数码管显示原理类似，将识别后的数字显示到LCD屏上。
 ## 项目框图
-      或者在文件Project_block_diagram.png
+      文件Project_block_diagram.png
+## 完成功能
+      ·实现OV5647采集的图像实时显示在LCD屏上
+      ·实现0~9数字识别
+      ·将识别的数字显示在LCD上
 ## 完成功能展示
-      或者在文件images里可找到
+    包括图片展示以及视频，在文件夹images中
